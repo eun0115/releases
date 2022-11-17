@@ -1,0 +1,10 @@
+PixelOS Nov 17, 2022 Changelogs
+
+- Based on new trees / Clean Flash is a must! 
+- Encrypted Build
+- RealmeDirac Dropped
+- a2dp Drop
+- Address Perf Denials
+- System Partition Resized to estimated 4GB? 
+- Meow 282 included
+- USER Build (for production)
