@@ -8,3 +8,24 @@ PixelOS Nov 17, 2022 Changelogs
 - System Partition Resized to estimated 4GB? 
 - Meow 282 included
 - USER Build (for production)
+
+=================================================
+
+ArrowOS Nov 19, 2022 Changelogs
+
+- Clean Flash is a must! 
+- Encrypted Build
+- Switch and compiled LLVM utils
+- Dropped Power HAL interaction boost 
+- Given proper permissions for /dev/diag 
+- Dropped useless qvop-daemon
+- Relaxed WiFi re-association RSSI thresholds  
+- Disabled RX wakelock feature 
+- Updated surfaceflinger props 
+- Synced media props with stock
+- Set Window animation/transition scale to 50% 
+- Synced display props with stock
+- Dropped renderscript pin 
+- Updated rootdir from LA.UM.9.11.r1-05600-NICOBAR.QSSI12.0 
+- Synced power_profile.xml with vendor/euclid
+- Synced firngerprint firmware from vendor/euclid
